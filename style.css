@@ -1,0 +1,100 @@
+.container{
+    background: #8FC8EB;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;     
+ }
+ 
+ .card {
+    height: 60vh;
+    width: 60vh;
+    display: flex;      
+    border: 1px solid #eee;
+    border-radius: 25px;
+    background: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;    
+ }
+ 
+ p{
+    font-size: 14px; 
+    font-weight: bolder;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 80px;    
+ }
+ 
+ .mini-card1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -460px;   
+ }
+ 
+ .card-cima {  
+   background: #8FC8EB;
+   border: 6px solid white;
+   height: 5vh;
+   width: 4vh;
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+ }
+ 
+ .mini-card2{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -10px;
+    padding-top: 15px;
+ }
+ 
+ 
+ .card-baixo {  
+    background:  #8FC8EB;
+    border: 6px solid white;
+    height: 5vh;
+    width: 4vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.mini-card3{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -10px;
+    padding-top: 15px;
+}  
+  
+
+.mini-card4{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -10px;
+    padding-top: 15px;
+}  
+
+ b{
+    background-color: #194569;
+    height: 5vh;
+    width: 5vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+ }
